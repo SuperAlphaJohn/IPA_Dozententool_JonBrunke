@@ -1,2 +1,1 @@
-This folder contains the documentations detailing the environment in which the project was performed, the analyzation of it
-and other aspects.
+This folder contains the documentations detailing the environment in which the project was performed, the analyzation of it and other aspects. Because the data which is processed in this project is not public I had to censor certains parts of the documentations.
